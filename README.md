@@ -1,2 +1,2 @@
-# Advance-_SQL
+# Advance-SQL
 Advance DDL, DML SQL Assignments
